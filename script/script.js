@@ -103,7 +103,7 @@ for (var i = 0; i < seats.length; i++) {
 }
 
 function addGreenStyle(e) {
-  e.style.backgroundColor = "green";
+  e.style.backgroundColor = "#1DD100";
   disabled(e);
 }
 
